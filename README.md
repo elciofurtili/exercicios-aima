@@ -56,8 +56,8 @@ A estrutura segue o modelo clássico com cidades, distâncias e uma heurística 
 Para executar os exemplos, use qualquer ambiente JavaScript (como Node.js):
 
 ```bash
-node greedy.js
-node astar.js
+node greedySearch.js
+node aStarSearch.js
 ```
 
 ---
