@@ -52,8 +52,6 @@ node greedySearch.js
 node aStarSearch.js
 ```
 
----
-
 ## 🧠 Exemplo de Saída
 
 ```bash
