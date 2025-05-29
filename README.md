@@ -52,7 +52,7 @@ node greedySearch.js
 node aStarSearch.js
 ```
 
-## 🧠 Exemplo de Saída
+## Exemplo de Saída
 
 ```bash
 Greedy Path: [ 'Dobreta', 'Craiova', 'Pitesti', 'Bucharest' ]
